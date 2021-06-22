@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\El_factorial_de_un_numero.dir/objects.a
+C:\Mingw64\mingw64\bin\ar.exe cr CMakeFiles\El_factorial_de_un_numero.dir/objects.a @CMakeFiles\El_factorial_de_un_numero.dir\objects1.rsp
+C:\Mingw64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\El_factorial_de_un_numero.dir/objects.a -Wl,--no-whole-archive -o El_factorial_de_un_numero.exe -Wl,--out-implib,libEl_factorial_de_un_numero.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\El_factorial_de_un_numero.dir\linklibs.rsp

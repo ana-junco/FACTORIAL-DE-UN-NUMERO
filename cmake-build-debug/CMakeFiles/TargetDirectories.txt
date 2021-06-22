@@ -1,0 +1,3 @@
+C:/Users/Ivan Junco/CLionProjects/El factorial de un numero/cmake-build-debug/CMakeFiles/El_factorial_de_un_numero.dir
+C:/Users/Ivan Junco/CLionProjects/El factorial de un numero/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ivan Junco/CLionProjects/El factorial de un numero/cmake-build-debug/CMakeFiles/rebuild_cache.dir
